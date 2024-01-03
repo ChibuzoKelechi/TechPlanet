@@ -1,3 +1,7 @@
+body{
+  overflow-x: hidden;
+}
+
 main {
   padding: 15px;
 }
